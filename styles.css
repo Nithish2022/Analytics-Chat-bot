@@ -1,0 +1,62 @@
+/* Apply dark background and light text color globally */
+body {
+    background-color: #1e1e1e; /* Dark background color */
+    color: #ffffff; /* Light text color */
+}
+
+/* Adjust background color for main content area */
+.css-1v3fvcr {
+    background-color: #1e1e1e; /* Dark background color for main content */
+}
+
+/* Adjust background color for sidebar */
+.sidebar .sidebar-content {
+    background-color: #333333; /* Dark sidebar background */
+}
+
+/* Adjust background color for header */
+header .css-1v0mbdj {
+    background-color: #1e1e1e; /* Dark header background */
+}
+
+/* Adjust background color for input areas */
+.st-bf {
+    background-color: #1e1e1e; /* Dark background for input areas */
+}
+
+/* Adjust background color for buttons */
+.st-bh {
+    background-color: #1e1e1e; /* Dark background for buttons */
+}
+
+/* Adjust color for text in buttons */
+.st-af {
+    color: #ffffff; /* Light color for text in buttons */
+}
+
+/* Adjust background color for containers */
+.st-co {
+    background-color: #1e1e1e; /* Dark background for containers */
+}
+
+/* Adjust background color for dropdown */
+.st-cf {
+    background-color: #1e1e1e; /* Dark background for dropdown */
+}
+
+/* Adjust the background color for the dataframe */
+.stDataFrame {
+    background-color: #1e1e1e; /* Dark background for dataframes */
+}
+
+/* Adjust the background and text color for the chat messages */
+.st-chat-message {
+    background-color: #333333; /* Dark background for chat messages */
+    color: #ffffff; /* Light text color for chat messages */
+}
+
+/* Ensure the chat input area is also dark */
+.css-1jgvbmh {
+    background-color: #1e1e1e; /* Dark background for chat input */
+    color: #ffffff; /* Light text color for chat input */
+}
